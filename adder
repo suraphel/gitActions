@@ -1,0 +1,5 @@
+const doSomeThing = (nu1, nu2) => {
+let su  = nu1 * nu2; 
+return su; 
+
+}
